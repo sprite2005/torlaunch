@@ -1,0 +1,26 @@
+{
+  "__comment": "This is the settings file. Copy and paste your secret questions and answers from swtor.com, you can copy and paste this file into http://www.jsonlint.com to check for syntax errors",
+  "swtor-path": "C:\\Program Files (x86)\\Electronic Arts\\BioWare\\Star Wars - The Old Republic\\swtor\\retailclient",
+  "accounts": {
+    "account1@example.com": {
+      "password": "example1",
+      "secret-questions": {
+        "What was the last name of your favorite teacher?": "answer1",
+        "What is your best friend's first name?": "answer2",
+        "In what city did your mother and father meet?": "answer3",
+        "What street did you live on when you were a teenager?": "answer4",
+        "What is the name of the first school you attended?": "answer5"
+      }
+    },
+	"account2@example.com": {
+      "password": "example2",
+      "secret-questions": {
+        "What was the last name of your favorite teacher?": "answer1",
+        "What is your best friend's first name?": "answer2",
+        "In what city did your mother and father meet?": "answer3",
+        "What street did you live on when you were a teenager?": "answer4",
+        "What is the name of the first school you attended?": "answer5"
+      }
+    }
+  }
+}

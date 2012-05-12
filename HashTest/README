@@ -1,0 +1,5 @@
+Dependencies: Jansson
+
+Description: Launches SWTOR bypassing patcher using settings in config.json
+
+Usage: torlaunch sample@email.com
